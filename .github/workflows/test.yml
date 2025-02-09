@@ -1,0 +1,23 @@
+name: Python Tests
+
+on: [push, pull_request]  # Запуск при каждом коммите и PR
+
+jobs:
+  test:
+    runs-on: ubuntu-latest  # Среда выполнения
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3  # Загружает код
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install Dependencies
+        run: |
+          pip install pytest  # Установка Pytest (если тестов много)
+
+      - name: Run Tests
+        run: pytest test_guess_the_number.py  # Запуск тестов
