@@ -3,7 +3,7 @@ A simple number guessing game in Python
 # Guess The Number
 
 ## Description
-A simple command-line game where the player tries to guess a randomly generated number between 1 and 100.
+A simple command-line game where the player tries to guess a randomly generated number between 1 and 100 randomly.
 
 ## How It Works
 - The game generates a number using a simple pseudo-random function.
