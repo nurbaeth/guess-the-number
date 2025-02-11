@@ -33,7 +33,7 @@ Congratulations! You guessed the number 63 in 3 attempts.
 ```
 
 ## Contributing
-Feel free to submit issues or pull requests to improve the game!
+Feel freee to submit issues or pull requests to improve the game!
 
 ## License
 This project is licensed under the MIT License.
