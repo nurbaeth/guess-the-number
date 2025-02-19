@@ -11,7 +11,7 @@ A simple command-line game where the player tries to guess a randomly generated 
 - The game tracks the number of attempts and displays the result at the end..
 
 ## Installation & Usage
-### Running the Ggame
+### Running the Ggame 
 1. Ensure you have Python installed (version 3.x recommended). 
 2. Download or clone this repository.
 3. Run the game with:
