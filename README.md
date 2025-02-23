@@ -15,7 +15,7 @@ A simple command-line game where the player tries to guess a randomly generated 
 1. Ensure you have Python installed (version 3.x recommended). 
 2. Download or clone this repository.
 3. Run the game with:
-   ```sh
+   ```sh 
    python guess_the_number.py
    ```
 4. Follow the prompts to enter your guesses.   
