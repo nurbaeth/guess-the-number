@@ -20,7 +20,7 @@ A simple command-line game where the player tries to guess a randomly generated 
    ```
 4. Follow the prompts to enter your guesses.   
  
-## Example Run 
+## Example Run  
 ```
 Welcome to the 'Guess the Number' game!
 I have chosen a number between 1 and 100. Try to guess it.
