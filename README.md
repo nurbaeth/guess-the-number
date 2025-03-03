@@ -9,7 +9,7 @@ A simple command-line game where the player tries to guess a randomly generated 
 - The game generates a number using a simple pseudo-random function.
 - The player enters guesses, and the program provides hints ("Higher!" or "Lower!") until the correct number is guessed.
 - The game tracks the number of attempts and displays the result at the end.
-
+ 
 ## Installation & Usage
 ### Running the Game
 1. Ensure you have Python installed (version 3.x recommended).
