@@ -22,7 +22,7 @@ A simple command-line game where the player tries to guess a randomly generated 
 
 ## Example Run
 ```
-Welcome to the 'Guess the Number' game!
+Welcome to the 'Guess the Number' game! 
 I have chosen a number between 1 and 100. Try to guess it.
 Enter a number: 50
 Higher!
