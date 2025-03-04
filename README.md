@@ -17,7 +17,7 @@ A simple command-line game where the player tries to guess a randomly generated 
 3. Run the game with:
    ```sh  
    python guess_the_number.py  
-   ``` 
+   ```  
 4. Follow the prompts to enter your guesses.   
  
 ## Example Run  
