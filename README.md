@@ -27,7 +27,7 @@ I have chosen a number between 1 and 100. Try to guess it.
 Enter a number: 50
 Higher!
 Enter a number: 75
-Lower!
+Lower! 
 Enter a number: 63
 Congratulations! You guessed the number 63 in 3 attempts.
 ```
